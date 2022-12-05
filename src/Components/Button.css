@@ -1,0 +1,13 @@
+.button-group{
+    margin-top: 90px;
+    padding: 10px 70px 
+}
+.button-group .btn-toolbar{
+    justify-content: space-between;
+}
+.button-group .btn-group{
+width:150px;
+}
+.btn-group{
+    display: inline-block;
+}
